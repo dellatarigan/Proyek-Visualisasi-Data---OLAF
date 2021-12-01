@@ -1,5 +1,5 @@
 # Video Games Sales Analytics Visualization
-# Tujuan yang diharapkan dalam pengerjaan proyek 
+# Tujuan proyek 
 
 Industri dapat menemukan informasi terkait 10 publisher yang paling banyak mempublikasikan video game untuk diperjualbelikan.[textual] 
 Industri dapat menemukan informasi terkait 10 genre yang paling banyak diminati.[textual] 
@@ -10,4 +10,20 @@ Merancang dashboard yang menyajikan visualisasi data penjualan game dari tahun k
 
 # Dataset Yang Digunakan
 https://www.kaggle.com/gregorut/videogamesales
+
+# Idiom Visualisasi 1
+![image](https://user-images.githubusercontent.com/60686944/144212938-5e9d10db-e4a0-4d79-b818-472d42684fe0.png)
+
+# Idiom Visualisasi 2
+![image](https://user-images.githubusercontent.com/60686944/144213013-f08d2931-ce99-463f-b261-ec170c925c8a.png)
+
+# Idiom Visualisasi 3
+![image](https://user-images.githubusercontent.com/60686944/144213054-9033c391-bc30-46df-a7f8-bdadbdce6ca9.png)
+
+# Idiom Visualisasi 4
+# Idiom Visualisasi 5
+# Dashboard Game Sales
+
+
+
 
