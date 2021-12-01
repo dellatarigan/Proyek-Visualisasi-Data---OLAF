@@ -13,6 +13,8 @@ https://www.kaggle.com/gregorut/videogamesales
 
 # Idiom Visualisasi 1
 ![image](https://user-images.githubusercontent.com/60686944/144212938-5e9d10db-e4a0-4d79-b818-472d42684fe0.png)
+dapat dilihat dari website tableau berikut ini:
+https://public.tableau.com/app/profile/alexconro/viz/Top10Publisher/Sheet2
 
 # Idiom Visualisasi 2
 ![image](https://user-images.githubusercontent.com/60686944/144213013-f08d2931-ce99-463f-b261-ec170c925c8a.png)
