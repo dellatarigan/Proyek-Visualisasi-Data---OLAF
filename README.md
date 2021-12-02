@@ -37,6 +37,5 @@ https://public.tableau.com/app/profile/alexconro/viz/GameSalesinMillionPerYear/S
 dapat dilihat dari website tableau berikut ini:
 https://public.tableau.com/app/profile/alexconro/viz/DashboardGameSales/Dashboard1
 # Link Video Penjelasan Proyek
-
-
+Untuk video presentasi dapat diakses melalui link berikut: https://youtu.be/2B10CsqUAFM
 
